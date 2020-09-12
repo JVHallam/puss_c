@@ -1,0 +1,34 @@
+# Requirements:
+## Each one needs:
+* Some base code
+* A number ( so that it can be done in order )
+* Expected output ( written )
+* A corresponding spoilers file
+
+## Execrises needed:
+* forloops
+* pointers
+* while loops
+* arrays
+* type declarations
+* void vs void* 
+* void functions
+
+
+## Order:
+1 * custom functions
+2 * while
+3 * while to for
+4 * for from general code
+5 * custom functions
+6 * for
+7 * pointers
+8 * for
+9 * pointers
+10 * pointers
+11 * arrays
+12 * arrays
+13 * void functions
+14 * functions that return pointers
+15 * arrays
+16 * for to while

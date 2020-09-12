@@ -1,0 +1,31 @@
+
+# Notes
+## High Prio:
+* write a while loop out as a for loop and explain the similiarities,
+    * Writing while loops
+    * Then convert them to forloops
+    * Write forloops
+    * convert them to while loops
+
+* needs to learn to use type declarations when declaring variables
+* understanding that we have to declare the size of an array up front
+* what does myArray[i] mean
+* ( myArray + index ) makes no sense to luke
+* void arrayMaker( int size ) vs void arrayMaker( int* size )
+* More code examples with passing around int* to different functions
+* Indexing the term and how to use it
+* myArray[1] = 1; myArray[2] = 2; myArray[3] = 3; into a forloop
+
+## Medium prio:
+* how myArray[] is the same as int* myArray
+* Remembering which braces to use for an array
+* The order of execution of a forloop (int i = 0; i < 10; ++i);
+* How to pass by value
+* how to pass by reference
+* the void return type vs the void* return type
+* return types from functions, again
+
+## Low prio:
+* difference between "" and <> in include
+* formatting printf strings
+* Diagrams of stack vs heap
