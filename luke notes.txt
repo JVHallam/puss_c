@@ -1,4 +1,8 @@
 
+Cards:
+* endl
+* cout
+
 # Notes
 ## High Prio:
 * write a while loop out as a for loop and explain the similiarities,

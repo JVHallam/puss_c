@@ -16,19 +16,23 @@
 
 
 ## Order:
-1 * custom functions
-2 * while
-3 * while to for
-4 * for from general code
-5 * custom functions
-6 * for
-7 * pointers
-8 * for
-9 * pointers
-10 * pointers
-11 * arrays
+1 * for 
+2 * custom functions ( done )
+3 * while 
+4 * while to for 
+5 * for from general code
+6 * custom functions
+7 * for
+8 * pointers ( done )
+9 * for 
 12 * arrays
-13 * void functions
-14 * functions that return pointers
-15 * arrays
-16 * for to while
+13 * arrays
+10 * pointers with arrays
+11 * pointers
+14 * void functions
+15 * functions that return pointers
+16 * arrays
+17 * for to while
+18 * structs
+19 * pointers with structs
+20 * structs arrows
