@@ -1,4 +1,7 @@
 # Requirements:
+**Notes**
+Need to add the one on malloc next. That'd be most useful.
+
 ## Each one needs:
 * Some base code
 * A number ( so that it can be done in order )
@@ -13,7 +16,6 @@
 * type declarations
 * void vs void* 
 * void functions
-
 
 ## Order:
 1 * for 
