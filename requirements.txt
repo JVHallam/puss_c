@@ -18,19 +18,19 @@ Need to add the one on malloc next. That'd be most useful.
 * void functions
 
 ## Order:
-1 * for 
+1 * for ( done )
 2 * custom functions ( done )
-3 * while 
+3 * while  
 4 * while to for 
 5 * for from general code
 6 * custom functions
 7 * for
 8 * pointers ( done )
 9 * for 
-12 * arrays
-13 * arrays
-10 * pointers with arrays
-11 * pointers
+10 * arrays
+11 * arrays
+12 * pointers with arrays
+13 * pointers with malloc ( done )
 14 * void functions
 15 * functions that return pointers
 16 * arrays
